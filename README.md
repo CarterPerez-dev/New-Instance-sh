@@ -1,6 +1,6 @@
 # Script
 
- ```py
+ ```swift
 #!/bin/bash
 # Ubuntu development environment setup script
 
