@@ -1,6 +1,6 @@
 # Script
 
- ```sh
+ ```shell
 #!/bin/bash
 # Ubuntu development environment setup script
 
