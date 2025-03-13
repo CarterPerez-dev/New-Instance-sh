@@ -1,6 +1,6 @@
 # Script
 
- ```swift
+ ```php
 #!/bin/bash
 # Ubuntu development environment setup script
 
