@@ -1,6 +1,6 @@
 # Script
 
- ```rust
+ ```py
 #!/bin/bash
 # Ubuntu development environment setup script
 
