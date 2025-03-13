@@ -1,6 +1,6 @@
 # Script
 
- ```regex
+ ```js
 #!/bin/bash
 # Ubuntu development environment setup script
 
