@@ -1,6 +1,6 @@
 # Script
 
- ```bash
+ ```perl
 #!/bin/bash
 # Ubuntu development environment setup script
 
