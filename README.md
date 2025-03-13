@@ -1,6 +1,6 @@
 # Script
 
- ```ruby
+ ```regex
 #!/bin/bash
 # Ubuntu development environment setup script
 
