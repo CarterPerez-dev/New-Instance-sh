@@ -1,6 +1,6 @@
 # Script
 
- ```js
+ ```bash
 #!/bin/bash
 # Ubuntu development environment setup script
 
