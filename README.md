@@ -1,6 +1,6 @@
 # Script
 
- ```shell
+ ```ruby
 #!/bin/bash
 # Ubuntu development environment setup script
 
