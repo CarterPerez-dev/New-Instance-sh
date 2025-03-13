@@ -1,6 +1,6 @@
 # Script
 
- ```c
+ ```rust
 #!/bin/bash
 # Ubuntu development environment setup script
 
