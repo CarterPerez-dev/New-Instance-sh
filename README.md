@@ -1,6 +1,6 @@
 # Script
 
- ```php
+ ```sql
 #!/bin/bash
 # Ubuntu development environment setup script
 
